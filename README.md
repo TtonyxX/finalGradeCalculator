@@ -1,2 +1,2 @@
 # finalGradeCalculator
-Finals grade calculator
+Final grade calculator
